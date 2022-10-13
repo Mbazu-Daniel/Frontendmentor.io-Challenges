@@ -129,7 +129,7 @@ p {
   transition: color 0.15s, text-decoration 0.15s;
 }
 
-.change:active {
+.change:active, .change:hover {
   text-decoration: none;
   color: var(--active-blue);
 }
@@ -148,7 +148,7 @@ p {
   box-shadow: 6px 8px 0px 0px #f5f7ff;
 }
 
-.payment:active {
+.payment:active, .payment:hover {
   background-color: var(--active-blue);
 }
 .cancel {
@@ -165,7 +165,7 @@ p {
   margin-top: 20px;
 }
 
-.cancel:active {
+.cancel:active, .cancel:hover{
   color: var(--dark-blue);
 }
 
