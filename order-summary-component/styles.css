@@ -162,7 +162,8 @@ p {
   cursor: pointer;
   color: var(--desaturated-blue);
   transition: color 0.15s;
-  margin-top: 20px;
+  margin: 20px 0;
+ 
 }
 
 .cancel:active, .cancel:hover{
