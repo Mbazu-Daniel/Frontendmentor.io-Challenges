@@ -182,3 +182,13 @@ p {
   color: hsl(228, 45%, 44%);
   /* width: 100%; */
 }
+
+
+/* Media queries */
+@media only screen and (max-width: 375px) {
+  body {
+    background: url(./images/pattern-background-mobile.svg) repeat-x
+    var(--pale-blue) fixed;
+
+  }
+}
