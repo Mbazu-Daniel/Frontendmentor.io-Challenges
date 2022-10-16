@@ -27,6 +27,7 @@
   flex-direction: column;
   height: 100vh; 
   background-color: var(--cream);
+  max-width: 1440px;
 }
 .container-box {
   display: flex;
