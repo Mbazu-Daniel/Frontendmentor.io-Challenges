@@ -2,3 +2,4 @@
 1. https://nft-preview-card-daniel.vercel.app
 2. https://qr-code-daniel.vercel.app
 3. https://order-summary-daniel.vercel.app/
+4. https://product-preview-card-daniel.netlify.app/
