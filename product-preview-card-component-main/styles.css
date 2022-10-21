@@ -111,6 +111,7 @@ margin-bottom: 10px;
 
   
   .perfume-cart {
+    background-color: var(--dark-cyan);
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 700;
@@ -133,7 +134,7 @@ margin-bottom: 10px;
 
   
   .perfume-cart img {
-    width: 20px;
+    /* width: 20px; */
     height: 20px;
     margin-right: 10px;
   }
